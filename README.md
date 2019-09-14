@@ -48,6 +48,8 @@ Want to edit the site you just published? Let’s practice commits by introducin
 
 Let’s start with this template:
 
+Pozdro programistyczne świry!
+
 ```
 <p>Hello World! I’m [username]. This is my website!</p>
 ```
